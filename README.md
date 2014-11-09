@@ -3,7 +3,7 @@ Percolation
 
 ====Abstract====
 
-The program simulates the process of percolation, the movement and filtering of fluids through porous materials. The program utilizes Monte Carlo method to increase the number of pores overtime, and finally creates a path that connects top and bottom rows. After the path appears, the fluid will percolate. 
+The program simulates the process of percolation, the movement and filtering of fluids through porous materials. The program utilizes Monte Carlo method to increase the number of pores overtime, and finally creates a path that connects top and bottom rows. After the path appears, the fluid will percolate. http://introcs.cs.princeton.edu/java/24percolation/
 
 After doing the simulation numerous times, we would find an average percentage of pores needed for percolation. This program does not try to show the result of that percentage, but to visually show the whole process of one simulation.
 
